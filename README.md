@@ -2,7 +2,7 @@
 
 _Senior Scientist Data Analytics at Mars Wrigley_ <br>
 
-[Email](mailto:david-kangwook.lee@effem.com) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/xilix109/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:david-kangwook.lee@effem.com) / [LinkedIn](https://www.linkedin.com/in/david-kangwook-lee/) / [GitHub](https://github.com/xilix109/) / [Twitter](https://twitter.com/xilix109/) / [Blog](https://)
 
 ## 👩🏼‍💻 Technical Experience
 
